@@ -1,7 +1,7 @@
 # 🚀 Semaine 2 – IA & Automation Sprint  
 *(Make • API • JSON • GPT)*
 
-## 📘 Apprentissages
+## 📘 Compétences travaillées
 - Compréhension approfondie de Make : webhooks, modules, mapping, routes, erreurs
 - JSON complexe : objets imbriqués, listes, parsing et transformation
 - Appels API (GET/POST) et tests avec Postman
@@ -38,4 +38,5 @@ Passer à Python (API, JSON, GPT) pour devenir autonome au-delà du no-code et p
 
 ## 📄 Notes
 Voir `notes.md`.
+
 
